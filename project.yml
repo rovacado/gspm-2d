@@ -10,8 +10,6 @@ copyright: Copyright 2021
 license: MIT
 godot:
   version: 3.3.4
-  arch: 64
-  mono: false
 
 project:
   url: https://github.com/rovacado/gspm-basic
@@ -22,7 +20,7 @@ assets:
         location: https://github.com/jonnymind/Godot-ScenePortal2D.git
         includes:
         - dir: addons
-        
+
 pre_install:
 
 post_install:
