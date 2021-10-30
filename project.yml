@@ -18,6 +18,11 @@ project:
   
 assets:
       
+      Godot-ScenePortal2D:
+        location: https://github.com/jonnymind/Godot-ScenePortal2D.git
+        includes:
+        - dir: addons
+        
 pre_install:
 
 post_install:
